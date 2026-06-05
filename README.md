@@ -1,4 +1,4 @@
-# 🏏 IPL Data Analysis (2008 - 2024)
+#  IPL Data Analysis (2008 - 2024)
 
 ## Overview
 An end-to-end Exploratory Data Analysis on the Indian Premier League (IPL) dataset 
